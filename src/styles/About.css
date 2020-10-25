@@ -1,0 +1,65 @@
+.me-img {
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    border-radius: 15px;
+}
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.25rem;
+    font-style: italic;
+}
+
+.para, .para1, .para2 {
+    position: fixed;
+    padding-right: 30px;
+}
+
+.para {
+    left: 1000px;
+    top: 175px;
+}
+
+.para1 {
+    left: 1000px;
+    top: 250px;
+}
+
+.para2 {
+    left: 1000px;
+    top: 350px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding-bottom: 100px;
+}
+
+.icon1 {
+    color: #fea3aa;
+}
+
+.icon2 {
+    color: #f8b88b;
+}
+
+.icon3 {
+    color: #faf884;
+}
+
+.icon4 {
+    color: #baed91;
+}
+
+.icon5 {
+    color: #b2cefe;
+}

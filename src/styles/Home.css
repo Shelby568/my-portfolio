@@ -1,0 +1,29 @@
+.home {
+    position: relative;
+    height: 980px;
+    min-height: 500px;
+    width: 100%;
+    background: url('../images/background.jpg') no-repeat top center;
+    background-size: cover !important;
+        -webkit-background-size: cover !important;
+    text-align: center;
+    overflow: hidden;
+}
+
+.name {
+    color: white;
+    font-size: 5rem;
+    padding: 200px;
+}
+
+.home-link {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.home-link:hover {
+    color: #cc5500
+}

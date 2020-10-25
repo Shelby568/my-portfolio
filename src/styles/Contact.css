@@ -1,0 +1,14 @@
+.contact-icons {
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+}
+
+.icon {
+    color: black;
+    padding: 50px;
+}
+
+.icon:hover {
+   color: #a95c68;
+}
