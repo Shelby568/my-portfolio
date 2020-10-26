@@ -1,10 +1,3 @@
-DESCRIPTION
+React Portfolio
 
-My portfolio/website - 
-
-Created using:
--React
--CSS
-
-Author
-Shelby Harrison
+Personal portfolio created with React.js

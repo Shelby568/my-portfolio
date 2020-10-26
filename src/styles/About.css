@@ -2,36 +2,25 @@
     height: 500px;
     width: 350px;
     position: absolute;
-    top: 100px;
-    left: 400px;
+    top: 125px;
+    left: 450px;
     border-radius: 15px;
 }
 
 .article {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     font-size: 1.25rem;
     font-style: italic;
 }
 
-.para, .para1, .para2 {
+.about-me {
     position: fixed;
-    padding-right: 30px;
-}
-
-.para {
-    left: 1000px;
-    top: 175px;
-}
-
-.para1 {
+    padding-right: 15%;
     left: 1000px;
     top: 250px;
-}
-
-.para2 {
-    left: 1000px;
-    top: 350px;
 }
 
 .footer {
