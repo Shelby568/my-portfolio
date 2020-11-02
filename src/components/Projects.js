@@ -6,7 +6,7 @@ const Projects = () => (
     <div className="projects">
         <NavBar />
         <div className="images">
-    <a href="https://objective-pare-9e9a26.netlify.app/">
+    <a href="https://jolly-thompson-e1c518.netlify.app/">
         <img src={require('../images/LG.png')} className="LG-img" alt="game"
             onMouseOver={e => (e.currentTarget.src = require('../images/netlify.png'))}
             onMouseOut={e => (e.currentTarget.src = require('../images/LG.png'))} />
