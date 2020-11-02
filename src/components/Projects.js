@@ -12,9 +12,9 @@ const Projects = () => (
             onMouseOut={e => (e.currentTarget.src = require('../images/LG.png'))} />
     </a>
     <a href="https://focused-ardinghelli-15a5ec.netlify.app/">
-        <img src={require('../images/SE1.png')} className="SE-img" alt="Surreal Estate"
+        <img src={require('../images/SE.png')} className="SE-img" alt="Surreal Estate"
             onMouseOver={e => (e.currentTarget.src = require('../images/heroku.png'))}
-            onMouseOut={e => (e.currentTarget.src = require('../images/SE1.png'))} />
+            onMouseOut={e => (e.currentTarget.src = require('../images/SE.png'))} />
     </a>
     <a href="https://shelby568.github.io/weather-app/">
         <img src={require('../images/WA.png')} className="WA-img" alt="Weather App"
@@ -22,9 +22,9 @@ const Projects = () => (
             onMouseOut={e => (e.currentTarget.src = require('../images/WA.png'))} />
     </a>
     <a href="https://github.com/Shelby568/book-library-api">
-        <img src={require('../images/BL1.png')} className="BL-img" alt="Back End"
+        <img src={require('../images/BL.png')} className="BL-img" alt="Back End"
             onMouseOver={e => (e.currentTarget.src = require('../images/github.png'))}
-            onMouseOut={e => (e.currentTarget.src = require('../images/BL1.png'))} />
+            onMouseOut={e => (e.currentTarget.src = require('../images/BL.png'))} />
     </a>    
     </div>
 </div>
